@@ -13,6 +13,7 @@ export default function GsapFrom() {
       </p>
 
       <p className="text-gray-300 leading-7 mb-6">
+        <p>Addiing one line</p>
         The <span className="text-orange-400 font-medium">gsap.from()</span> method is
         similar to the <span className="text-orange-400 font-medium">gsap.to()</span>{" "}
         method, but the difference is that the{" "}
